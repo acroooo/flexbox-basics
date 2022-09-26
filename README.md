@@ -4,4 +4,7 @@
 
 - Flex direction
 
-- Justify content
+- Justify content (row)
+
+- Justify content (column)
+
