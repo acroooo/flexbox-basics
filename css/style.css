@@ -71,3 +71,7 @@ h1, h2 {
     display:flex;
 }
 
+.d-flex-2{
+    display:flex;
+    flex-direction: column;
+}
