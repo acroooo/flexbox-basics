@@ -87,3 +87,9 @@ h1, h2 {
     justify-content: center; /* Alineacion vertical */
 }
 
+.d-flex-5{
+    display:flex;
+    height: 700px;
+    align-items: center; /* default strech */
+    /* baseline -> tTodos los elementos flexibles son ajustados de modo que sus bases queden alineadas */
+}

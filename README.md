@@ -8,3 +8,7 @@
 
 - Justify content (column)
 
+- Align items (row)
+
+- Align items (column)
+
